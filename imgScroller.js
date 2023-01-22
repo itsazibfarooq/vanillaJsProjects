@@ -30,6 +30,7 @@ buttons.forEach((button, index) => {
     resetBg();
     slider.style.transform = `translateX(-${index * 800}px)`;
     buttons[index].style.backgroundColor = 'white';
+    title.innerHTML = `${index+1} / ${length}`;
   });
 });
 
