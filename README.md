@@ -5,17 +5,17 @@
   
 ### Conceptuaal Food in the Project  
   
-* HTML  
+HTML  
 - Making dynamic searh bar.  
 - Making dynamic item list.  
 - Making dynamic slider.  
 - Class based webpage handling.  
   
-* CSS  
+CSS  
 - flexbox  
 - media query dynamic responsiveness  
   
-* JavaScript  
+JavaScript  
 - DOM Manipulation.  
 - Map and filter items of an array.  
 - spread operator.  
