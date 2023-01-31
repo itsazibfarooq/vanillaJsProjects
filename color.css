@@ -19,14 +19,16 @@ body{
   gap:2px;
 }
 
-.title{
+h3{
+  padding: 0;
+  margin: 0;
   margin-right: 5px;
 }
 
 button{
-  padding: 15px;
+  padding: 5px 10px;
   background-color: rgb(46, 41, 41);
-  border-radius: 15px;
+  border-radius: 10px;
   border: none;
   color: white;
   cursor: pointer;
